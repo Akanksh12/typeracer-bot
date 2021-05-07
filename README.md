@@ -5,7 +5,7 @@ How to use:
 * have chrome installed on your machine
 
 ## Note:
-I have made a file named run.bat, it installs the packages on the go and runs the python file
+I have made a file named run.bat, it installs the packages on the go and runs the python file(works on windows only)
 
 ![typeracer bot result](https://user-images.githubusercontent.com/55909985/117446117-3c16a800-af59-11eb-9b02-08431e587e77.PNG)
 
