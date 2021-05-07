@@ -1,4 +1,4 @@
-# Typeracer bot
+# Typeracer bot ⌨⌨⌨⌨⌨
 How to use:
 * have a python interpreter installed(I used python 3.8)
 * install webdriver_manager and selenium using pip or any way possible
